@@ -3,6 +3,7 @@ package tests
 import (
 	"context"
 	"fmt"
+	"github.com/testcontainers/testcontainers-go"
 	"log"
 	"time"
 
