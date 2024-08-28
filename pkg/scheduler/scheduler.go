@@ -11,9 +11,9 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/JyotinderSingh/task-queue/pkg/common"
 	"github.com/jackc/pgx/pgtype"
 	"github.com/jackc/pgx/v4/pgxpool"
+	"scheduler/pkg/common"
 )
 
 // CommandRequest represents the structure of the request body
